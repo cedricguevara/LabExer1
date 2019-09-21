@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabExer1</string>
+    <string name="plaza_mayor">Plaza Mayor</string>
+    <string name="ust_grandstand">UST Grandstand</string>
+    <string name="arch_of_the_century">Arch of the Century</string>
+    <string name="carpark">Carpark</string>
+    <string name="ust_field">UST Field</string>
+    <string name="arch_of_the_centuries">Arch of the Centuries</string>
+    <string name="miguel_de_benavides_library">Miguel de Benavides Library</string>
+    <string name="ust_main_building">UST Main Building</string>
+</resources>
